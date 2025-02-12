@@ -57,8 +57,8 @@ SELECT * FROM user;
 
 -- UPDATE
 UPDATE user SET
-    first_name="Tom",
-    last_name="Smith",
+    first_name="Seth",
+    last_name="Patterson",
     hobbies="Watching movies and listening to music"
 WHERE id=1;
 
