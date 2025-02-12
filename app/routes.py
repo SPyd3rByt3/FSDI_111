@@ -8,7 +8,7 @@ def index():
         "first_name": "Seth",
         "last_name": "Patterson",
         "in_online": True,
-        "hobbies": ["reading", "writing", "coding"]
+        "hobbies": ["reading", "writing", "coding", "swimming"]
     }
 
     return me
