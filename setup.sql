@@ -12,7 +12,7 @@ INSERT INTO task (
     description
 ) VALUES
 (
-    "Do laundry!",
+    "Do laundry",
     "Make sure to separate the colors and whites",
     "Don't forget to fold the clothes once they're dry"
 ),
